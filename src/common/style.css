@@ -1,0 +1,15 @@
+.clear-both {
+    clear: both;
+}
+
+.w-33 {
+    width: 33.33%
+}
+
+.w-fit-content {
+    width: fit-content;
+}
+
+.h {
+    height: 100rem;
+}
