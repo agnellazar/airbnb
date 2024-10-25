@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/airbnb/static/css/main.98eeef6b.css",
+    "main.js": "/airbnb/static/js/main.ec174c78.js",
+    "static/js/453.2c89e409.chunk.js": "/airbnb/static/js/453.2c89e409.chunk.js",
+    "static/media/AirbnbCerealVF_W_Wght.woff2": "/airbnb/static/media/AirbnbCerealVF_W_Wght.5657269f96d3375b2aef.woff2",
+    "static/media/title-icon-full.svg": "/airbnb/static/media/title-icon-full.0f4f105bd2b0202dc155.svg",
+    "static/media/title-icon.svg": "/airbnb/static/media/title-icon.f6c76cb6ef44ecd87f56.svg",
+    "static/media/instagram-icon.svg": "/airbnb/static/media/instagram-icon.66615bf50146fb65b2009ff1bd993141.svg",
+    "static/media/world-icon.svg": "/airbnb/static/media/world-icon.50d7191c3caadcc1b5e23e02567ea661.svg",
+    "index.html": "/airbnb/index.html",
+    "static/media/twitter-icon.svg": "/airbnb/static/media/twitter-icon.936a1166d3e3dc17ac692841f31a2cf4.svg",
+    "static/media/profile-icon.svg": "/airbnb/static/media/profile-icon.fc70ca2c87e544cc1a31dbf8240b8ba9.svg",
+    "static/media/facebook-icon.svg": "/airbnb/static/media/facebook-icon.63a4257afc22dd6bac51c8c4caa3b3a4.svg",
+    "static/media/rating-icon.svg": "/airbnb/static/media/rating-icon.b6c138792f8e5125bd41fd1cd004445f.svg",
+    "static/media/search-icon.svg": "/airbnb/static/media/search-icon.cb4c8cbb6e9576f185bb0955968e24e8.svg",
+    "static/media/ham-menu-icon.svg": "/airbnb/static/media/ham-menu-icon.ff7fbceafa9de1fa6e8bca0e47b1886d.svg",
+    "static/media/left-arrow.svg": "/airbnb/static/media/left-arrow.190f4f65c23c52cd73c77b62e700223b.svg",
+    "static/media/right-arrow.svg": "/airbnb/static/media/right-arrow.83cb3b768ff0cf205ef3a7c898aaf14a.svg",
+    "main.98eeef6b.css.map": "/airbnb/static/css/main.98eeef6b.css.map",
+    "main.ec174c78.js.map": "/airbnb/static/js/main.ec174c78.js.map",
+    "453.2c89e409.chunk.js.map": "/airbnb/static/js/453.2c89e409.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98eeef6b.css",
+    "static/js/main.ec174c78.js"
+  ]
+}
