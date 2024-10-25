@@ -8,7 +8,8 @@ const carImgIdPref = "carImgId";
 let currentScroll = 0;
 
 function getImageUrl(loc,index) {
-    return "http://localhost:3000/carousels/" + loc + "/" + index + ".webp"; 
+    return  window.location.href + "/carousels/" + loc + "/" + index + ".webp"; 
+
 }
 
 function getImageTag(loc, index) {

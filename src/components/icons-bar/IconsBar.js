@@ -67,7 +67,7 @@ const iconsList = [
 ]
 
 function getImageUrl(label) {
-    return "http://localhost:3000/iconBar/" + label
+    return window.location.href + "/iconBar/" + label
 }
 
 const scrollIdPrefix = "scrollId"
