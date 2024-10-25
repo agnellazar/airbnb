@@ -1,0 +1,44 @@
+.footer-bar-p {
+    padding: 24px 40px;
+}
+
+.dot-spacer {
+    width: 19px;
+    height: 14px;
+    font-size: 14px;
+    line-height: 100%;
+    text-align: center;
+    display: inline-block;
+    vertical-align: text-top;
+}
+
+.footer-bar-1-fs {
+    font-size: 14px;
+}
+
+
+.footer-bar-link-c {
+    color: #222222  !important;
+}
+
+.footer-bar-icon-size-1 {
+    height: 16px;
+    width: 16px;
+}
+
+.footer-bar-icon-size-2 {
+    height: 18px;
+    width: 18px;
+}
+
+.footer-bar-2-m {
+    margin-right: 24px;
+}
+
+.footer-bar-3-m {
+    margin-right: 16px;
+}
+
+.footer-bar-4-m {
+    margin-right: 8px;
+}

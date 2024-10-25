@@ -1,0 +1,33 @@
+.label-grid-type-1 {
+    display: grid;
+    grid-template-rows: 19px 19px 19px 25px;
+}
+
+.label-emphasis-font {
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(34,34,34);
+}
+
+.label-muted-font {
+    font-size: 15px;
+    color: rgb(106,106,106);
+}
+
+.lh-200 {
+    line-height: 200%;
+}
+
+.price-mt {
+    margin-top: 6px;
+}
+
+.rating-icon-dims {
+    height: 12px;
+    width: 12px;
+}
+
+.label-grid-type-2 {
+    display: grid;
+    grid-template-rows: 19px 19px 19px;
+}
