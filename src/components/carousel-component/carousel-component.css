@@ -1,0 +1,44 @@
+
+.car-viewbox {
+    width: 100%; /* to take full width given to the carousel*/
+    aspect-ratio: 1/1; 
+    /* height: 100%; */
+    overflow-x: scroll;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+    border-radius: 12px;
+}
+
+.show-on-hover-on-anchor {
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.car-anchor:hover .show-on-hover-on-anchor {
+    opacity: 1;
+}
+
+.car-img {
+    height: 100%;
+    aspect-ratio: 1/1;
+    background-position: center;
+    scroll-snap-align: center;
+    background-size: cover;
+}
+
+.left-arr-wrapper-pos {
+    top: 0;
+    left: 0;
+    margin-left: 15px;
+}
+
+.right-arr-wrapper-pos {
+    top: 0;
+    right: 0;
+    margin-right: 15px;
+}
+
+.nav-btn-size {
+    height: 32px;
+    width: 32px;
+}

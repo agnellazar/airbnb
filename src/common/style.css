@@ -1,3 +1,6 @@
+:root {
+    --muted-text-color: #6a6a6a;
+}
 .clear-both {
     clear: both;
 }
@@ -10,6 +13,74 @@
     width: fit-content;
 }
 
+.w-max-content {
+    width: max-content;
+}
+
 .h {
     height: 100rem;
+}
+
+@font-face {
+    font-family: 'AirbnbCerealVF_W_Wght'; /* Name your font family */
+    src: url('./../assets/fonts/AirbnbCerealVF_W_Wght.woff2'); /* Locate the .ttf file within your directory*/
+  }
+
+body {
+    font-family: 'AirbnbCerealVF_W_Wght';
+}
+
+.brand-color-1 {
+    color: #222222 !important;
+}
+
+.bg-trans {
+    background-color: transparent;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.hide-scroll::-webkit-scrollbar {
+    display: none;
+
+}
+.hide-scroll{
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.bg1 {
+    background-color: red;
+}
+
+.bg2{
+    background-color: blue;
+}
+
+.bg3 {
+    background-color: wheat;
+}
+
+.std-bg-color {
+    background-color: white;
+}
+
+.muted-text-color {
+    color: var(--muted-text-color) !important;
+}
+
+.naked-btn {
+    border: none;
+}
+
+.naked-link {
+    color: black;
+    text-decoration: none;
+}
+
+.underline-on-hover {
+    text-decoration: none;
+}
+
+.underline-on-hover:hover {
+    text-decoration: underline;
 }
